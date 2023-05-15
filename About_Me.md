@@ -6,10 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=Utkarsh-2525&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh-2525">
 <img src='https://img.shields.io/badge/AI/ML%20Enthusiast-555555?style=for-the-badge&logoColor=white'>
 
-I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Java` and `C`. I’m currently looking through `Software Development` and `Competitive Programming`.
+I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Java` and `Python`. I’m currently looking through `Software Development` and `Competitive Programming`.
 
 - I'm interested in `Artificial Intelligence` and `Machine Learning`.
-- Ask me about `Java` and `C`.
+- Ask me about `Java` and `Python`.
 - Currently working on my mini project involving `Machine Learning` and `Artificial Intelligence`.
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 <br>
