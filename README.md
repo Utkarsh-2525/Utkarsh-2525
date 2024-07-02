@@ -24,7 +24,7 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Utkarsh-2525&show_icons=true&locale=en" alt="Utkarsh-2525" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-2525]&" alt="Utkarsh-2525" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-2525" alt="Utkarsh-2525" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh-2525&show_icons=true&locale=en&layout=compact" alt="Utkarsh-2525" height:350px/></p>
 
