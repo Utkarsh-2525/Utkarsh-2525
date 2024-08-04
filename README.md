@@ -5,10 +5,10 @@
 </p>
 <!-- <img src="https://komarev.com/ghpvc/?username=Utkarsh-2525&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh-2525"> -->
 
-I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Java` and `Python`. I’m currently looking through `Software Development` and `Competitive Programming`.
+I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Java`. I’m currently looking through `Software Development` and `Competitive Programming`.
 
 - Currently building applications with `Java` for `Back-End` and multiple technologies like `React` `NodeJS` `Angular` for `Front-End` 
-- Love coding in `Java`.
+- I love coding in `Java`.
 - Currently working on Full Stack projects involving Java, React, NodeJS, MySQL, MongoDB, etc.
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 <br>
