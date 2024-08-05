@@ -34,8 +34,4 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 <h2 align="left">Connect with me : </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/m-utkarsh2573) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/M_Utkarsh2573/) [![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:utkarsh2573@gmail.com)
-
-
-
 [![](https://visitcount.itsvg.in/api?id=Utkarsh-2525&icon=0&color=1)](https://visitcount.itsvg.in)
-
