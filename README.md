@@ -1,9 +1,7 @@
 ### Hi there👋Welcome to my GitHub Profile !!
 <p>
-<!-- <img src='https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp' align="right" width=250> -->
   
 </p>
-<!-- <img src="https://komarev.com/ghpvc/?username=Utkarsh-2525&label=Profile%20views&color=0e75b6&style=flat" alt="Utkarsh-2525"> -->
 
 I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engineering. I love to work with `Java`. I’m currently looking through `Software Development` and `Competitive Programming`.
 
