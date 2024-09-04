@@ -8,6 +8,7 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 - Currently building applications with `Java` for `Back-End` and multiple technologies like `React` `NodeJS` `Angular` for `Front-End` 
 - I love coding in `Java`.
 - Currently working on Full Stack projects involving Java, React, NodeJS, MySQL, MongoDB, etc.
+- Currently working on projects provided by IIT, Kanpur.
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 <br>
 
