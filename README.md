@@ -9,6 +9,7 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 - I love coding in `Java`.
 - Currently working on Full Stack projects involving `Java`, `React`, `NodeJS`, `MySQL`, `MongoDB`, etc.
 - Currently working on `personal projects`.
+
 - Also focussed on improving my `Data Structures and Algorithms` and `Problem Solving Skills`.
 <br>
 
