@@ -17,7 +17,7 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,git,python,nodejs,angular,html,css,javascript,mongodb,postman,react,nextjs,tailwind,typescript,express,blender,bootstrap,unity,spring,rabbitmq,docker,kubernetes,grafana,kafka,maven,mysql,yarn,vite,npm,figma,dotnet,materialui,idea,pycharm,webstorm,vscode,latex,netlify,vercel,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=java,cs,git,python,nodejs,angular,html,css,javascript,mongodb,postman,react,nextjs,tailwind,typescript,express,blender,bootstrap,unity,spring,rabbitmq,docker,kubernetes,grafana,prometheus,kafka,maven,mysql,yarn,vite,npm,figma,dotnet,materialui,idea,pycharm,webstorm,vscode,latex,netlify,vercel,cloudflare" />
   </a>
 </p>
 
