@@ -28,7 +28,7 @@ I am **Utkarsh Mishra**, an undergraduate majoring in Computer Science and Engin
 
 <br/>
 
-<p>&nbsp;<img align="center" width="462px" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-2525&theme=transparent" alt="Utkarsh-2525" /></p>
+<p>&nbsp;<img align="center" width="462px" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh-2525&theme=transparent" alt="Current-Streak" /></p>
 
 
 
